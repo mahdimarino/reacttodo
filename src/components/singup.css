@@ -1,0 +1,17 @@
+.hoverd {
+    background-color: #a18aff !important;
+    color: white !important;
+    border: solid 3px white !important;
+}
+
+.hoverd:hover {
+    background-color: white !important;
+    color: #a18aff !important;
+    border: solid 3px white !important;
+}
+
+@media screen and (min-width: 700px) {
+    .containerdingin {
+        width: 100% !important;
+    }
+}

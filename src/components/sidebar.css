@@ -1,0 +1,29 @@
+.picdiv {
+    border-bottom: 3px solid #a18aff;
+}
+
+.hoverd {
+    background-color: #a18aff !important;
+    color: white !important;
+    border: solid 3px red !important;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.hoverd:hover {
+    background-color: white !important;
+    color: #a18aff !important;
+    border: solid 3px red !important;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.profilpic {
+    border-radius: 100% !important;
+    width: 50%;
+
+    margin: auto;
+}
